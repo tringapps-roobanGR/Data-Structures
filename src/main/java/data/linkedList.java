@@ -7,6 +7,7 @@ public class Node //creating class node to describe the node characteristic
 {
 	int data;
 	Node next;
+	
 }
 
 public void insertdata(int num)//this method insert the value 
