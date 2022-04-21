@@ -7,7 +7,7 @@ public class Stack {
 		if(top<3)
 			arr[++top]=num;
 	}
-	
+	 
 	public void pop() {            // this method delete the num from the stack 
 		if(top>-1) {
 			top--;
