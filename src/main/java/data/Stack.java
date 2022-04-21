@@ -13,7 +13,7 @@ public class Stack {
 			top--;
 		}
 			
-	}
+	} 
 	public void display() {          // this method is used to display element after every method is called 
 		System.out.println("---------");//when this method is called
 		for(int i=0;i<=top;i++)
